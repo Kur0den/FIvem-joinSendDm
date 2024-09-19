@@ -5,7 +5,7 @@ author 'Kur0den0010'
 description 'Script to send a DM to a character upon completion of character loading'
 version '2.0.0'
 
-shared_script '@qb-core/import.lua'
+shared_script '@ox_lib/init.lua'
 
 client_scripts {
     'config.lua',  -- 設定ファイルを指定
